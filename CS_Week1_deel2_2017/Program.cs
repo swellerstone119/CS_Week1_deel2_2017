@@ -7,6 +7,8 @@ namespace CS_Week1_deel2_2017
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.ReadKey();
         }
     }
 }
